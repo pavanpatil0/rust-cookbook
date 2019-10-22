@@ -58,3 +58,6 @@ terms or conditions.
 
 [CC0-deed]: https://creativecommons.org/publicdomain/zero/1.0/deed.en
 [CC0-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg
+
+
+Here we are Inserting and Querying the Data.. This is Rust book for Perform an Programming task
